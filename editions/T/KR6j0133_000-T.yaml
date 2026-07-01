@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0133/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大陀羅尼末法中一字心呪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0956.xml
+    old_id: T19n0956
+hash: sha256:3cb10f1111a71d1b4dba8258d88d9ccae23fe10ad669ccb152efe7a048ebf988

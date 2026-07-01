@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0133/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0133/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大陀羅尼末法中一字心呪經
+  identifiers:
+    krp: KR6j0133
+    cbeta: T19n0956
+    cbeta_old_id: T19n0956
+    authorityid: CA0000688
+    json_key: T0956
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0956.xml
+    old_id: T19n0956
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0133_000-T.yaml, hash: 'sha256:3cb10f1111a71d1b4dba8258d88d9ccae23fe10ad669ccb152efe7a048ebf988'}
+  - {seq: 1, filename: KR6j0133_001-T.yaml, hash: 'sha256:84e7acbf377b8bd510d1e66dd5946e3d5e1ae6c19ecad54e81b6787a7df32444'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0133_000-T.markers.yaml, hash: 'sha256:48b21caf549e83161a01ae31dfba94dfaba6135b06f395f694592bc129c6e8eb'}
+  - {seq: 1, role: markers, filename: assets/KR6j0133_001-T.markers.yaml, hash: 'sha256:1bb6a7a728c54ec3a0da8a6e73eb791a850eb85d80f2f547ce636c7a80ab0f8f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0133_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6436
+  label: 大陀羅尼末法中一字心呪經
+  type: juan
+  level: 1
+hash: sha256:85765069236b8a26002f975f9bb366ebe135375bdb7b1bdf75dd627e29752e57
