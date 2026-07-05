@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0133_000.yaml, hash: 'sha256:3cb10f1111a71d1b4dba8258d88d9ccae23fe10ad669ccb152efe7a048ebf988'}
-  - {seq: 1, filename: KR6j0133_001.yaml, hash: 'sha256:d54f426277dd0d2fe9f3e9b41019f9566c1c03efd66b23c417401989a5b2b9d8'}
+  - {seq: 1, filename: KR6j0133_001.yaml, hash: 'sha256:84e7acbf377b8bd510d1e66dd5946e3d5e1ae6c19ecad54e81b6787a7df32444'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0133_001.markers.yaml, hash: 'sha256:2f85173f6914d521d31c82ad09e190e8d2d99b1dde3f271c1cf98efae80280f4'}
+  - {seq: 0, role: markers, filename: assets/KR6j0133_000.markers.yaml, hash: 'sha256:a589dd8dc592e703d029c0e498d28977c9dc9b6ba21a2e25f2a72cca6b767122'}
+  - {seq: 1, role: markers, filename: assets/KR6j0133_001.markers.yaml, hash: 'sha256:ae3ceb201803f621c493423b08bb94e65c66d48a7c04f3d1ba59b87e73a12c89'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 大陀羅尼末法中一字心呪經
   type: juan
   level: 1
-hash: sha256:6624e5aeceba948deea31cee87b66e1ee15702aa387acc348d03aeb6b3af3f1e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:41ce841c489db3fef321f37268b0d92e5628c6c005850e9cb8b241392731d269
